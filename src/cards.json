@@ -1,62 +1,62 @@
 [
     {
         "id": 1,
-        "image": "/assets/images/brown-chihuahua.jpg",
-        "name": "Brown Chihuahua"
+        "image": "/assets/images/cheesesteak-wapuu.png",
+        "name": "Cheese Steak Wapuu"
     },
     {
         "id": 2,
-        "image": "/assets/images/chubby-chihuahua.jpg",
-        "name": "Chubby Chihuahua"
+        "image": "/assets/images/chrome.png",
+        "name": "Chrome"
     },
     {
         "id": 3,
-        "image": "/assets/images/grumpy-chihuahua.jpg",
-        "name": "Grumpy Chihuahua"
+        "image": "/assets/images/facebook.jpeg",
+        "name": "FB 1"
     },
     {
         "id": 4,
-        "image": "/assets/images/lady-chihuahua.jpg",
-        "name": "Lady Chihuahua"
+        "image": "/assets/images/fb2.png",
+        "name": "FB 2"
     },
     {
         "id": 5,
-        "image": "/assets/images/stern-chihuahua.jpg",
-        "name": "Stern Chihuahua"
+        "image": "/assets/images/firefox.png",
+        "name": "Fire Fox"
     },
     {
         "id": 6,
-        "image": "/assets/images/white-chihuahua.jpg",
-        "name": "White Chihuahua"
+        "image": "/assets/images/icon_mentors.png",
+        "name": "Mentors"
     },
     {
         "id": 7,
-        "image": "/assets/images/brown-chihuahua.jpg",
-        "name": "Brown Chihuahua"
+        "image": "/assets/images/insta.png",
+        "name": "Instagram 3"
     },
     {
         "id": 8,
-        "image": "/assets/images/chubby-chihuahua.jpg",
-        "name": "Chubby Chihuahua"
+        "image": "/assets/images/Instagram2.png",
+        "name": "Instagram 2"
     },
     {
         "id": 9,
-        "image": "/assets/images/grumpy-chihuahua.jpg",
-        "name": "Grumpy Chihuahua"
+        "image": "/assets/images/instagram3.png",
+        "name": "Instagram 1"
     },
     {
         "id": 10,
-        "image": "/assets/images/lady-chihuahua.jpg",
-        "name": "Lady Chihuahua"
+        "image": "assets/images/twitter.png",
+        "name": "Twitter"
     },
     {
         "id": 11,
-        "image": "/assets/images/stern-chihuahua.jpg",
-        "name": "Stern Chihuahua"
+        "image": "/assets/images/UT.jpeg",
+        "name": "You Tube"
     },
     {
         "id": 12,
-        "image": "/assets/images/white-chihuahua.jpg",
-        "name": "White Chihuahua"
+        "image": "/assets/images/wapuu.png",
+        "name": "Wapuu Burger"
     }
 ]

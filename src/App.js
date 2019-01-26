@@ -17,9 +17,11 @@ class App extends Component {
     topScore: 0,
     guessCorrect: true,
     clickedPics: [],
+    shuffledPics:[],
     pics: cards
   };
 
+  
   componentDidMount() {
     this.setNewRandomId(this.state.pics)
   }
