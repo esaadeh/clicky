@@ -12,6 +12,7 @@ class App extends Component {
 
   state = {
     randomId: 0,
+    tally: 0,
     score: 0,
     topScore: 0,
     guessCorrect: true,
@@ -25,9 +26,14 @@ class App extends Component {
 
   handleClicked = id => {
     this.setState({
-      score: this.state.score + 1
+      tally: this.state.tally + 1
     });
-    alert(`cliked id: ${id}`);
+    if (this.state.randomId === id) {
+      this.setState({
+        score: this.state.score + 1
+      });
+      this.setNewRandomId(this.state.pics);
+    }
   }
 
   setNewRandomId = (array) => {
@@ -44,8 +50,9 @@ class App extends Component {
     return (
       <div className="container">
         <Scoreboard
-          num={this.state.randomId}
+          guessCorrect={this.state.guessCorrect}
           score={this.state.score}
+          tally={this.state.tally}
           topScore={this.state.topScore}
           randomId={this.state.randomId} />
         <div className="row">
