@@ -8,7 +8,7 @@ function Scoreboard(props) {
         <div className="col-md-12">
         <h1>Clicky Game</h1>
         <h2>{props.guessCorrect}</h2>
-          <p>Rando Num: {props.num}</p>
+          <p>Rando Num: {props.randomId}</p>
           <p>Tally: {props.tally}</p>
           <p>Score: {props.score}</p>
           <p>Top Score: {props.topScore}</p>
